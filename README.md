@@ -3,20 +3,20 @@ Collection of projects worked on for TripleTen Data Scientist program
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Basic Python|  |
-| 2 | Exploratory Data Analysis (EDA) |  |
-| 3 | Statistical Data Analysis |  |
-| 4 | Machine Learning Customer Interaction Strategies |  |
-| 5 | Integrated Project 1 |  |
-| 6 | Data Collection and Storage (SQL) |  |
-| 7 | Introduction to Machine Learning |  |
-| 8 | Supervised Learning |  |
-| 9 | Machine Learning in Business |  |
-| 10 | Integrated Project 2 |  |
-| 11 | Linear Algebra |  |
-| 12 | Numerical Methods |  |
-| 13 | Time Series |  |
-| 14 | Machine Learning for Texts |  |
-| 15 | Computer Vision |  |
-| 16 | Unsupervised Learning |  |
-| 17| Final Project |  |
+| 1 | Basic Python| In this project, I work with data from the entertainment industry. Studied a dataset with records on movies and shows. This project aims to investigate how the number of votes a title receives impacts its ratings. The assumption is that highly-rated shows (we will focus on TV shows, ignoring movies) released during the "Golden Age" of television also have the most votes. |
+| 2 | Exploratory Data Analysis (EDA) | For this project, I worked with data from Instacart.  I cleaned up the data and prepared a report that gave insight into the shopping habits of Instacart customers. After answering each question, I wrote a brief explanation of the results. |
+| 3 | Statistical Data Analysis | You work as an analyst for the telecom operator Megaline. I carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. My job is to analyze the clients' behavior and determine which prepaid plan brings in more revenue. |
+| 4 | Software Development Tools | I was asked to develop and deploy a web application to a cloud service so that it is accessible to the public. In this project, I was provided with a dataset on car sales advertisements. |
+| 5 | Integrated Project 1 | The goal I had was to find patterns that determine whether or not a game is successful. To plan for future campaigns finding the games that sell well would be the ideal candidate to promote. |
+| 6 | Data Collection and Storage (SQL) | I'm working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. The task is to find patterns in the available information. I want to understand passenger preferences and the impact of external factors on rides. Working with a database, I'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency. |
+| 7 | Introduction to Machine Learning | Mobile carrier Megaline has found out that many of its subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. |
+| 8 | Supervised Learning | We need to predict whether a customer will leave the bank soon. You have the data on clients’ past behavior and termination of contracts with the bank. This project is about building a model for a bank to predict whether or not a current customer will leave the bank. |
+| 9 | Machine Learning in Business | I work for the OilyGiant mining company. My task is to find the best place for a new well. I have data on oil samples from three regions. The parameters of each oil well in the region are already known. Built a model that will help to pick the region with the highest profit margin. Analyze potential profit and risks using the Bootstrapping technique.|
+| 10 | Integrated Project 2 | Project instructions: Prepare the data. Check that recovery is calculated correctly. Using the training set, calculate recovery for the rougher.output.recovery feature. Provide findings. Analyze the features not available in the test set. What are these parameters? What is their type? Perform data preprocessing. Analyze the data.  Consider the total concentrations of all substances at different stages: raw feed, rougher concentrate, and final concentrate. Do you notice any abnormal values in the total distribution? If you do, is it worth removing such values from both samples? Describe the findings and eliminate anomalies. Build the model Write a function to calculate the final sMAPE value. Train different models. Evaluate them using cross-validation. Pick the best model and test it using the test sample. Provide findings. |
+| 11 | Linear Algebra | Load the data. Check that the data is free of issues — there is no missing data, extreme values, and so on. Work on each task and answer the questions posed in the project template. Draw conclusions based on your experience working on the project. |
+| 12 | Numerical Methods | Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. I have access to historical data: technical specifications, trim versions, and prices. You need to build the model to determine the value.  |
+| 13 | Time Series | Sweet Lift Taxi company has collected historical data on taxi orders at airports. To attract more drivers during peak hours, we need to predict the amount of taxi orders for the next hour. Build a model for such a prediction. |
+| 14 | Machine Learning for Texts | The Film Junky Union, a new edgy community for classic movie enthusiasts, is developing a system for filtering and categorizing movie reviews. The goal is to train a model to automatically detect negative reviews. You'll be using a dataset of IMBD movie reviews with polarity labeling to build a model for classifying positive and negative reviews. It will need to reach an F1 score of at least 0.85. |
+| 15 | Computer Vision | The supermarket chain Good Seed would like to explore whether Data Science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage. You are asked to conduct that evaluation and build a model to do so. |
+| 16 | Unsupervised Learning | Information on unsupervised learning in ML models. |
+| 17| Final Project | The telecom operator Interconnect would like to be able to forecast the churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's data, including information about their plans and contracts. |

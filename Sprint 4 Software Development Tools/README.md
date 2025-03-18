@@ -21,10 +21,6 @@ The EDA and plots in this project utilize the following python libraries:
 4. Download the dataset
 5. Run `streamlit run app.py` command from local terminal
 
-## Credits
-
-Michael Twersky
-
 ## Questions
 
 1. Render URL: https://software-development-tools.onrender.com/
